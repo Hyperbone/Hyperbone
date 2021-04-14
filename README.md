@@ -1,4 +1,4 @@
-### :rage4: About me
+### About me
 * 💞 牛タンが好きです。色んなコード書いてます。
 
 ### Spotify Playing 🎧
