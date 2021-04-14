@@ -1,5 +1,5 @@
-### About me
-よく食べます。色んなコード書いてます。
+### :rage4: About me
+* 💞 牛タンが好きです。色んなコード書いてます。
 
 ### Spotify Playing 🎧
 
