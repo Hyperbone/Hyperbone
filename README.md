@@ -7,4 +7,4 @@
 
 ### Connect with me
 
-<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> teru#5963
+[![Discord Presence](https://lanyard.cnrad.dev/api/237898785483653121?theme=light&bg=fca3ff&borderRadius=30px)](https://discord.com/users/237898785483653121)
