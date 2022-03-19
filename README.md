@@ -7,4 +7,4 @@
 
 ### Connect with me
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/237898785483653121?theme=light&bg=fca3ff&borderRadius=30px)](https://discord.com/users/237898785483653121)
+[![Discord Presence](https://lanyard.cnrad.dev/api/237898785483653121?theme=light&bg=dfbae0&borderRadius=30px)](https://discord.com/users/237898785483653121)
